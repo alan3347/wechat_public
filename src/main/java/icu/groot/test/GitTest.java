@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello git第二版");
         System.out.println("hello git第三版");
+        System.out.println("hello git第四版之hot-fix");
     }
 }
