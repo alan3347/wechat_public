@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("hello git第四版之hot-fix");
         System.out.println("hello git第五版之hot-fix合并冲突");
         System.out.println("hello git第五版之合并冲突之hot-fix");
+        System.out.println("hello git第六版之提交远程库");
     }
 }
