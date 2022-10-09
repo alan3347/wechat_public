@@ -1,0 +1,27 @@
+info:
+  alan:
+    # 他的出生日期
+    birthdayTa: 2001-09-09
+    # 我的出生日期
+    birthdayMe: 2001-09-09
+    # 什么纪念日
+    jilianri: 2022-07-31
+    # 备注
+    note: 刘慧宝贝❤
+    weather:
+      # 行政代码用于天气预报
+      administrativeCode: 500105
+      ak: 7Alv96o685xXPjHU2FMwp1MgCzB4WEiU
+
+    # 微信参数
+    weChat:
+      appId: wxb62b608c140641d4
+      secret: eddb4b20d4e6b9a11a21f83c5ee5420d
+      userId: o6N9c5o64S2Acgo1pM3Qcwx3xYQY
+      modelId: txAdYlwD52u9_kUKmTFJ48X00NIIA_s4iPom7q_sDl0
+    caiHongPi:
+      key: 1edbb250290a8d29bf863859fdb2fa20
+# springboot配置
+# 端口配置
+server:
+  port: 26174
